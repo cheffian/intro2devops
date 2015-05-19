@@ -81,7 +81,7 @@ kitchen test
 ### Do all them currently pass?
 
 ```
-./run_tests
+./run_tests.sh
 ```
 
 - Hums along until:
